@@ -10,28 +10,20 @@
     "numberOfClassReservationsRemaining",
     "currentPersonalTrainer"
   ],
-  "diagnostics": {
-    "keys": [
-      "id",
-      "errors",
-      "websites",
-      "routerModel"
-    ],
-    "data": [
-      {
-        "id": "00001",
-        "errors": ["404", "404", "404"],
-        "websites": ["https://www.google.com/", "https://www.bing.com"],
-        "routerModel": "XB7"
-      },
-      {
-        "id": "00002",
-        "errors": ["500", "500", "500"],
-        "websites": ["https://www.facebook.com/", "https://www.amazon.com"],
-        "routerModel": "XB6"
-      }
-    ]
-  },
+  "diagnostics": [
+    {
+      "id": "00001",
+      "errors": ["404", "404", "404"],
+      "websites": ["https://www.google.com/", "https://www.bing.com"],
+      "routerModel": "XB7"
+    },
+    {
+      "id": "00002",
+      "errors": ["500", "500", "500"],
+      "websites": ["https://www.facebook.com/", "https://www.amazon.com"],
+      "routerModel": "XB6"
+    }
+  ],
   "gymMembers": [
     {
       "id": "00001",

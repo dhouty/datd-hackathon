@@ -1,4 +1,15 @@
 {
+  "keys": [
+    "id",
+    "errors",
+    "websites",
+    "routerModel",
+    "membershipStatus",
+    "totalHoursInGymOverLastWeek",
+    "totalSmoothiesPurchasedLastVisit",
+    "numberOfClassReservationsRemaining",
+    "currentPersonalTrainer"
+  ],
   "diagnostics": [
     {
       "id": "00001",

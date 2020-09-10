@@ -12,5 +12,23 @@
       "websites": ["https://www.facebook.com/", "https://www.amazon.com"],
       "routerModel": "XB6"
     }
+  ],
+  "gymMembers": [
+    {
+      "id": "00001",
+      "membershipStatus": "active",
+      "totalHoursInGymOverLastWeek": "7",
+      "totalSmoothiesPurchasedLastVisit": "2",
+      "numberOfClassReservationsRemaining": "3",
+      "currentPersonalTrainer": "Bob"
+    },
+    {
+      "id": "00002",
+      "membershipStatus": "inactive",
+      "totalHoursInGymOverLastWeek": "3",
+      "totalSmoothiesPurchasedLastVisit": "1",
+      "numberOfClassReservationsRemaining": "6",
+      "currentPersonalTrainer": "Jill"
+    }
   ]
 }
